@@ -1,0 +1,49 @@
+.customize img {
+	height: 160px;
+	width: 160px;
+	border-radius: 50%;
+	text-align: center;
+	position: relative;
+	bottom: 71px;
+}
+.two-part {
+	display: inline-block;
+	width: 35%;
+	padding: 20px;
+	box-shadow: 2px 5px 15px #80808040;
+	margin: 0 20px;
+	border-radius: 6px;
+	margin-top: 71px;
+	margin-bottom: 0;
+}
+.customize {
+	padding: 0;
+	margin: 0;
+	height: 113px;
+	text-align: center;
+}
+
+.two-part h5 {
+	font-size: 16px;
+	font-weight: 600;
+	color: #767676;
+	margin-left: 17px;
+    padding:6px 0
+}
+
+.main-button {
+	padding: 14px 42px;
+	font-size: 13px;
+	font-weight: 600;
+	color: #FFF;
+	background: #0e06ffa1;
+	margin: 28px 0;
+	position: relative;
+	left: 13px;
+	border-radius: 9px;
+	border: navajowhite;
+	cursor: pointer;
+    transition: .3s;
+}
+
+.main-button:hover{letter-spacing: 1px;}
